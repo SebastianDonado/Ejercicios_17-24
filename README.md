@@ -114,6 +114,9 @@ Afrontaremos la primer parte mediante el determinante b**2 - 4*a*c , donde el re
 ![image](https://github.com/user-attachments/assets/485da5b9-5fcf-4d70-a9bb-3975556c733f)
 ![image](https://github.com/user-attachments/assets/fa93918e-d087-4b35-a893-382b59bb843f)
 
+### Bibliografia de los ejercicios:
+
+Gómez Perdomo, J., Rodríguez, A., Cubides, C., & Sierra, C. A. (n.d.). Funciones de uno o varios parámetros. Universidad Nacional de Colombia.
 
 
 
